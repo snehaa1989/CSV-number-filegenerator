@@ -1,2 +1,2 @@
 # CSV-number-filegenerator
-A csv number file generator using html ans javascript.
+A small csv number file generator using html and javascript.
